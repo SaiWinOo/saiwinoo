@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Win Oo</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [fullstack e-commerec web app](https://github.com/SaiWinOo/fullstack-laravel-vue-e-commerec)
+- 🔭 I’m currently working on [fullstack e-commerec web app](https://github.com/SaiWinOo/rest-api-laravel)
 
 - 🌱 I’m currently learning **Vue And Laravel**
 
